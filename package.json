@@ -1,0 +1,29 @@
+{
+  "name": "week-9-assessment",
+  "version": "1.0.0",
+  "description": "week-9-assessment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohamad-aktham-obeidat/Week-9-Assessment.git"
+  },
+  "author": "OBEIDAT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohamad-aktham-obeidat/Week-9-Assessment/issues"
+  },
+  "homepage": "https://github.com/mohamad-aktham-obeidat/Week-9-Assessment#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "concurrently": "^4.1.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
